@@ -7,20 +7,23 @@ function Header () {
     return (
         <section className="header">
            <section className="header-top">
-            <section className="header-top_logo">
+            <section className="header-top__logo">
                 <a href="/" className="header-logo" LOGO>
-                    Logo
+                    Portfolio
                 </a>
             </section>
-            <section className="header-top_navbar">
+            <section className="header-top__navbar">
+            <section className="header-top__navigation">
                 <NavBar />
+            </section>
+            <hr className="header-top__seperator" />
             </section>
            </section>
            <section className="header-bottom">
-            <section className="header-bottom_phone">
+            <section className="header-bottom__phone">
                 (xxx)xxx-xxxx
             </section>
-            <section className="header-bottom_email">
+            <section className="header-bottom__email">
                 xxx@gmail.com
             </section>
            </section>
