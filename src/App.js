@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Header, Footer } from './components'
+import { Header, Footer, Intro, About } from './components'
 
 function App() {
   return (
@@ -8,6 +8,14 @@ function App() {
       <Header />
       <br />
       <br />
+      <br />
+      <br />
+      <Intro />
+      <br />
+      <br />
+      <br />
+      <br />
+      <About />
       <br />
       <br />
       <br />

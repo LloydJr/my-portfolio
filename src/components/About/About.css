@@ -1,0 +1,18 @@
+.about {
+
+}
+
+.about-title {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.about-body {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 20px;
+}

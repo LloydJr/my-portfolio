@@ -21,10 +21,10 @@ function Header () {
            </section>
            <section className="header-bottom">
             <section className="header-bottom__phone">
-                (xxx)xxx-xxxx
+                (610)704-2237
             </section>
             <section className="header-bottom__email">
-                xxx@gmail.com
+                lloydjperez@gmail.com
             </section>
            </section>
         </section>
