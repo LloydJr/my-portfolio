@@ -1,0 +1,18 @@
+.projects {
+
+}
+
+.projects-title {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.projects-body {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 20px;
+}

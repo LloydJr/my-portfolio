@@ -1,0 +1,18 @@
+.tech {
+
+}
+
+.tech-title {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.tech-body {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 20px;
+}
