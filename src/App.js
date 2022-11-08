@@ -1,21 +1,12 @@
 import React from 'react';
 import './App.css';
 import { Header, Footer, Intro, About, Projects, Technologies } from './components'
-import { BrowserRouter as Router, Routes, Route } from 'react';
 
 function App() {
   return (
     <div className="App">
       
-      <Header >
-      <Routes>
-        <Route path="#about" element={<About />} />
-        <Route path="#projects" element={<Projects />} />
-        <Route path="#technologies" element={<Technologies />} />
-      </Routes>
-      </Header >
-        
-
+      <Header />
       <br />
       <br />
       <br />
@@ -49,7 +40,7 @@ function App() {
       <br />
       <br />
       <br />
-      <About id="about"/>
+      <About />
       <br />
       <br />
       <br />
@@ -66,7 +57,7 @@ function App() {
       <br />
       <br />
       <br />
-      <Projects id="projects"/>
+      <Projects />
       <br />
       <br />
       <br />
@@ -83,7 +74,7 @@ function App() {
       <br />
       <br />
       <br />
-      <Technologies id="technologies"/>
+      <Technologies />
       <br />
       <br />
       <br />
