@@ -21,7 +21,7 @@ function Projects() {
               ourSllack
             </section>
             <section className="text-body-ourSllack">
-              Text Body
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error ipsa rem quae dolorem consequatur tempore impedit deserunt ex velit delectus, odio, quod modi atque sit, iusto in voluptatum quos excepturi!
             </section>
           </section>
 
@@ -30,7 +30,7 @@ function Projects() {
             Casino
            </section>
            <section>
-            Text Body
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, culpa distinctio iusto enim officiis fugit accusantium quis dicta in eos earum nulla quos recusandae totam nobis voluptatum aliquam tempore architecto!
            </section>
           </section>
 
@@ -39,7 +39,7 @@ function Projects() {
               GogoYugioh
             </section>
             <section>
-              Text Body
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet veniam architecto facere natus, molestias iste totam obcaecati a praesentium quo alias voluptatibus laudantium maxime quam sit? Reprehenderit commodi iste quia!
             </section>
           </section>
 
