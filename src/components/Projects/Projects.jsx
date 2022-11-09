@@ -8,7 +8,41 @@ function Projects() {
             Projects
         </section>
         <section className="projects-body">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ipsam repellat illum suscipit, deserunt fuga voluptatibus obcaecati. Magni, repellat accusantium! Quis dolor ipsa itaque ut dignissimos modi omnis debitis incidunt.
+          Here some of the projects I have worked on.
+        </section>
+
+        <br />
+        <br />
+        
+        <section className="project-seperator">
+
+          <section className="projects-info-left">
+            <section className="project_ourSllack projects-subtitle">
+              ourSllack
+            </section>
+            <section className="text-body-ourSllack">
+              Text Body
+            </section>
+          </section>
+
+          <section className="projects-info-center">
+           <section className="project_casino projects-subtitle">
+            Casino
+           </section>
+           <section>
+            Text Body
+           </section>
+          </section>
+
+          <section className="projects-info-right">
+            <section className="project_gogoyugioh projects-subtitle">
+              GogoYugioh
+            </section>
+            <section>
+              Text Body
+            </section>
+          </section>
+
         </section>
     </section>
   )

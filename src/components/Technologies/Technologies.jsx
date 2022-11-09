@@ -8,7 +8,9 @@ function Technologies() {
             Technologies
         </section>
         <section className="tech-body">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et praesentium perferendis voluptas repellendus fuga cupiditate sunt rerum modi officia tempore, dolorum harum debitis ad repellat minima odio commodi nemo omnis.
+            I have worked within a range of technologies in the web development world. 
+            <br />
+            From Back End to Front End.
         </section>
     </section>
   )
