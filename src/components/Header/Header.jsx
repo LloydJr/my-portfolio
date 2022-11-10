@@ -9,7 +9,7 @@ function Header () {
            <section className="header-top">
             <section className="header-top__logo">
                 <a href="/" className="header-logo" LOGO>
-                    Portfolio
+                    Lloyd Perez
                 </a>
             </section>
             <section className="header-top__navbar">

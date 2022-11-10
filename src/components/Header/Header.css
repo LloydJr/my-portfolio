@@ -1,5 +1,5 @@
 .header {
-    margin-top: 20px;
+    margin-top: 0px;
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -12,7 +12,7 @@
   }
   
   .header-top__logo {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     margin-right: 20px;
@@ -90,3 +90,48 @@
     border-radius: 10px;
     color: white;
   }
+  @media only screen and (max-width: 1070px){
+  
+    .header-logo {
+      font-size: 80px;
+    }
+  }
+  @media only screen and (max-width: 972px){
+  
+    .header-logo {
+      font-size: 70px;
+      margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 924px){
+  
+  .header-logo {
+    font-size: 60px;
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 875px){
+  
+  .header-logo {
+    font-size: 50px;
+  }
+}
+@media only screen and (max-width: 826px){
+  
+  .header-logo {
+    font-size: 40px;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 678px){
+  
+  .header-logo {
+    display: none;
+  }
+}
+@media only screen and (max-width: 582px){
+  
+  .header-logo {
+    display: none;
+  }
+}
