@@ -16,3 +16,40 @@
     font-family: RobotoRegular;
     font-size: 20px;
 }
+.tech-info-left, .tech-info-center, .tech-info-right {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+    font-family: RobotoRegular;
+    font-size: 18px;
+  }
+
+  .project_ourSllack {
+    text-align: start;
+  }
+
+  .project_casino {
+    text-align: center;
+  }
+
+  .project_gogoyugioh {
+    text-align: end;
+  }
+
+  .project-seperator {
+    display: flex;
+    justify-content: center;
+  }
+
+  .projects-subtitle {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoRegular;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.text-body__ourSllack {
+    margin: 20px 0px;
+  }
