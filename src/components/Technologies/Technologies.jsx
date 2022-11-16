@@ -1,5 +1,8 @@
 import React from 'react';
 import './Technologies.css';
+import ComputerIcon from '@mui/icons-material/Computer';
+import SettingsEthernetIcon from '@mui/icons-material/SettingsEthernet';
+import BackupIcon from '@mui/icons-material/Backup';
 
 function Technologies() {
   return (
@@ -20,8 +23,8 @@ function Technologies() {
         <section className="project-seperator">
 
           <section className="tech-info-left">
-            <section className="project_ourSllack projects-subtitle">
-              Front-End
+            <section className="projects-subtitle">
+              <ComputerIcon /> Front-End
             </section>
             <section className="text-body-ourSllack">
               Javascript, React.js
@@ -29,8 +32,8 @@ function Technologies() {
           </section>
 
           <section className="tech-info-center">
-           <section className="project_casino projects-subtitle">
-            Back-End
+           <section className="projects-subtitle">
+            <SettingsEthernetIcon/>Back-End
            </section>
            <section>
             Java, Spring Boot, Hibernate, Rest API
@@ -38,8 +41,8 @@ function Technologies() {
           </section>
 
           <section className="tech-info-right">
-            <section className="project_gogoyugioh projects-subtitle">
-              Data
+            <section className="projects-subtitle">
+              <BackupIcon />Data
             </section>
             <section>
               MySQL, PostgreSQL

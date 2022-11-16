@@ -25,16 +25,18 @@
     font-size: 18px;
   }
 
-  .project_ourSllack {
+  .title-front-end {
     text-align: start;
+    padding-left: 50px;
   }
 
-  .project_casino {
+  .title-back-end {
     text-align: center;
   }
 
-  .project_gogoyugioh {
+  .title-data {
     text-align: end;
+    padding-right: 50px;
   }
 
   .project-seperator {
