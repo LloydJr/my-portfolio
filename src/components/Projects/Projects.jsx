@@ -17,8 +17,8 @@ function Projects() {
         <section className="project-seperator">
 
           <section className="projects-info-left">
-            <section className="project_ourSllack projects-subtitle">
-              ourSllack
+            <section className="projects-subtitle">
+            ourSllack
             </section>
             <section className="text-body-ourSllack">
             In a team of 4, using Java, Spring Boot, MySQL, PostgreSQL React.js, created our own version of a messaging server of Slack.
@@ -26,7 +26,7 @@ function Projects() {
           </section>
 
           <section className="projects-info-center">
-           <section className="project_casino projects-subtitle">
+           <section className="projects-subtitle">
             Casino
            </section>
            <section>
@@ -36,7 +36,7 @@ Roulette, and CRAPS; personally led implementation of Roulette game.
           </section>
 
           <section className="projects-info-right">
-            <section className="project_gogoyugioh projects-subtitle">
+            <section className="projects-subtitle">
               GogoYugioh
             </section>
             <section>

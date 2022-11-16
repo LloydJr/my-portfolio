@@ -1,5 +1,7 @@
 import React from 'react';
 import { NavBar } from '../../components';
+import PhoneIcon from '@mui/icons-material/Phone';
+import EmailIcon from '@mui/icons-material/Email';
 
 import './Header.css';
 function Header () {
@@ -21,10 +23,10 @@ function Header () {
            </section>
            <section className="header-bottom">
             <section className="header-bottom__phone">
-                (610)704-2237
+                <PhoneIcon />(610)704-2237
             </section>
             <section className="header-bottom__email">
-                lloydjperez@gmail.com
+                <EmailIcon />lloydjperez@gmail.com
             </section>
            </section>
         </section>

@@ -27,7 +27,8 @@
   }
 
   .project_ourSllack {
-    text-align: start;
+    text-align: center;
+    padding-left: 50px;
   }
 
   .project_casino {
@@ -35,7 +36,8 @@
   }
 
   .project_gogoyugioh {
-    text-align: end;
+    text-align: center;
+    padding-right: 50px;
   }
 
   .project-seperator {
