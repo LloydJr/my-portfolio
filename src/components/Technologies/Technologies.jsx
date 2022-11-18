@@ -12,7 +12,7 @@ function Technologies() {
         </section>
         <section className="tech-body">
             I have worked within a range of technologies in the web development world. 
-            <br />
+            {/* <br /> */}
             From Back End to Front End.
         </section>
 

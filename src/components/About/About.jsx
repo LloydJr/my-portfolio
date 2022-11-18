@@ -9,13 +9,13 @@ function About() {
         </section>
         <section className="about-body">
         Customer-focused and detail-oriented Software Developer with 7+ year previous experience in
-         <br />
+         {/* <br /> */}
         retail management; completed college courses in Business Management and Computer Science. 
-         <br />
+         {/* <br /> */}
         Highly organized and KPI-driven. Major experience lies in delivering high-quality service
-         <br />
+         {/* <br /> */}
         within high pressure environments while maintaining a positive work environment. Seeks to 
-         <br />
+         {/* <br /> */}
         transfer strong interpersonal, business management, and technology skills to a software development role.
         </section>
     </section>
